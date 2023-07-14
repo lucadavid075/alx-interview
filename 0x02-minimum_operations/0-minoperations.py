@@ -6,7 +6,7 @@ Minimum operations alx interview
 
 def minOperations(n):
     """
-    Method that ccalculates the fewest number of operations 
+    Method that ccalculates the fewest number of operations
     needed to result in exactly n H characters in the file.
     """
     if not isinstance(n, int):
